@@ -1,0 +1,10 @@
+body {
+    background-color:grey
+}
+
+p.red-text {
+    color:red;
+}
+h1.black-text {
+    color: black;
+}
